@@ -43,3 +43,40 @@ experience:
     date_end: '2016-12-31'
     description: Taught electronic engineering and researched semiconductor physics.
 ---
+
+**Education**  
+2004 M.Sc. with distinction in Evolutionary Anthropology, Durham University, U.K.  
+Dissertation: Genetic diversity and population genetic structure in the South American sea lion (Otaria flavescens).
+
+2002 B.A. Cum Laude in Sociology & Anthropology and Evolutionary Biology, University of Haifa, Israel.
+
+**Trainings**
+
+*2019* 
+
+Popgen Summer course in analyses of genotyping and NGS data in medical and population genetics. University of Copenhagen, Denmark  
+
+Erasmus+ Traineeship, Department of Archaeogenetics, Max Planck Institute for the Science of Human History, Jena, Germany. 
+
+Lab training in carbon, nitrogen and strontium stable isotope analysis, Department of Human Evolution, Max Planck Institute for Evolutionary Anthropology, Leipzig, Germany.  
+
+
+*2018*  
+
+Workshop, Capturing the Essence: Presenting your research in 3 minutes, University of Vienna.
+
+Lab technician, ancient DNA lab for bone sampling, University of Vienna. 
+
+Workshop, Ancient DNA techniques for zoonosis research, Robert Koch Institute, Berlin
+
+Hands-on workshop: Exome Library Preparation, Vienna Biocenter Core Facilities, Vienna
+
+Hands-on workshop: ATLAS software workshop, part of Ancient DNA: A Time-machine to Study Evolution. CUSO Doctoral Program in Ecology and Evolution, Bern, Switzerland.
+
+Three-day workshop, Ancient DNA: A Time-machine to Study Evolution, CUSO Doctoral Program in Ecology and Evolution, Leukerbad, Switzerland.
+
+Lab training in nitrogen and carbon soil stable isotope analysis, ter:labs, University of Vienna
+
+*2016*  
+Bioinformatics Internship, Sheffield Bioinformatics Hub, University of Sheffield, U.K.
+Project: Identification of time-informative markers in modern human ancient DNA samples using admixture components.
