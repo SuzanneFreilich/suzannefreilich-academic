@@ -41,7 +41,7 @@ design:
 
 Fernandes, D.M., ..., Freilich, S., ..., Reich, D. 
 
-Nature    23 Dec 2020: [https://doi.org/10.1038/s41586-020-03053-2 ](https://www.nature.com/articles/s41586-020-03053-2)
+Nature    23 Dec 2020: [https://doi.org/10.1038/s41586-020-03053-2 ](https://www.nature.com/articles/s41586-020-03053-2/ "Nature")
 
 *Abstract*
 
