@@ -53,5 +53,3 @@ highlight_name: false
 I am interested in combining archaeology, anthropology and biomarkers to understand biological and cultural human evolution.
 
 I generate and analyse whole genomes from ancient individuals, together with carbon, nitrogen and strontium stable isotope signatures to better understand prehistoric communities' genetic and social structures, and patterns of diet and mobility. In addition, the analysis of calculus provides insights into the oral microbiome.
-
-#{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
