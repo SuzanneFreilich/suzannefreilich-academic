@@ -42,9 +42,9 @@ design:
 
 *2020:*
 
-Podium presentation, Archaeology and genetics elucidate social stratification, kinship and diverse demographic processes in Neolithic and Bronze Age Croatia, 26th EAA Annual Meeting, Budapest, Hungary.
+Oral presentation, Archaeology and genetics elucidate social stratification, kinship and diverse demographic processes in Neolithic and Bronze Age Croatia, 26th EAA Annual Meeting, Budapest, Hungary.
 
-Podium presentation, New AMS, stable isotope and genomic data illuminate prehistoric population dynamics in Osijek-Baranja County, Croatia, 26th EAA Annual Meeting, Budapest, Hungary.
+Oral presentation, New AMS, stable isotope and genomic data illuminate prehistoric population dynamics in Osijek-Baranja County, Croatia, 26th EAA Annual Meeting, Budapest, Hungary.
 
 *2019*
 
@@ -54,7 +54,7 @@ Poster, "Reconstructing Croatian population history with novel ancient genomes r
 
 *2018*
 
-Lecture, "Genetic diversity and social stratification in prehistoric Balkans - genomes, culture and the rise of complex societies", given at workshop: Ancient DNA: A Time-machine to Study Evolution, CUSO Doctoral Program in Ecology and Evolution, Leukerbad, Switzerland.
+Oral presentation, "Genetic diversity and social stratification in prehistoric Balkans - genomes, culture and the rise of complex societies", given at workshop: Ancient DNA: A Time-machine to Study Evolution, CUSO Doctoral Program in Ecology and Evolution, Leukerbad, Switzerland.
 
 Poster, "Genetic diversity and social stratification in prehistoric Balkans - genomes, culture and the rise of complex societies." ISBA 2018 - 8th International Symposium on Biomolecular Archaeology, Jena, Germany.
 
@@ -62,8 +62,8 @@ Poster, "Who do you think you are? First results of Neolithic and Bronze Age Bal
 
 *2016*
 
-Lecture, Genetic diversity and social stratification in Prehistoric and Medieval Balkans: Genes, culture and the rise of complex societies. PhD Seminar Day, School of Archaeology, University College Dublin.
+Oral presentation, Genetic diversity and social stratification in Prehistoric and Medieval Balkans: Genes, culture and the rise of complex societies. PhD Seminar Day, School of Archaeology, University College Dublin.
 
 *2004*
 
-Poster, "Genetic diversity and population genetic structure in the South American sea lion (Otaria flavescens)." Department of Anthropology Postgraduate Student Conference, Durham University.
+Poster, "Genetic diversity and population genetic structure in the South American sea lion (Otaria flavescens)." Department of Anthropology Postgraduate Student Conference, Durham University. {{% staticref "media/PosterPresentation.pdf" "newtab" %}}View poster{{% /staticref %}}
