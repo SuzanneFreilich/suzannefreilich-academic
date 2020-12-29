@@ -18,10 +18,10 @@ date_format: Jan 2006
 
 ---
 
-** Croatia ** 
+**Croatia** 
 
-** South Asia **  
+**South Asia**  
 
-** Anatolia **
+**Anatolia**
 
-** Central Europe ** 
+**Central Europe** 
