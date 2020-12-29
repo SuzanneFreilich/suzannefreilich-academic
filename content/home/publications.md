@@ -61,9 +61,9 @@ By sequencing 523 ancient humans, we show that the primary source of ancestry in
 
 **Genetic diversity and population genetic structure in the South American sea lion (Otaria flavescens).**
 
-Freilich, S., A. R. Hoelzel, and S. R. Choudhury. {{% staticref "media/PosterPresentation_SF.pdf" "newtab" %}}View poster{{% /staticref %}}
+Freilich, S., A. R. Hoelzel, and S. R. Choudhury. 
 
-Durham Anthropology Journal 2005:13(1)
+Durham Anthropology Journal 2005:13(1) {{% staticref "media/PosterPresentation_SF.pdf" "newtab" %}}View poster{{% /staticref %}}
 
 *Abstract*
 
