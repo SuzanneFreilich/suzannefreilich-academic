@@ -26,6 +26,10 @@ Dissertation: Genetic diversity and population genetic structure in the South Am
 
 **Trainings**
 
+*2020*
+
+Austrian Marshall Plan Foundation Fellowship, Genscape Lab, Department of Human Genetics, University of Chicago, U.S.A.
+
 *2019* 
 
 Popgen Summer course in analyses of genotyping and NGS data in medical and population genetics. University of Copenhagen, Denmark  
