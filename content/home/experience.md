@@ -24,7 +24,7 @@ Dissertation: Genetic diversity and population genetic structure in the South Am
 
 2002 B.A. Cum Laude in Sociology & Anthropology and Evolutionary Biology, University of Haifa, Israel.
 
-**Trainings**
+**Trainings and research visits**
 
 *2020*
 
