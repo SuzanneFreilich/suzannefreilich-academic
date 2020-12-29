@@ -63,6 +63,9 @@ By sequencing 523 ancient humans, we show that the primary source of ancestry in
 
 Freilich, S., A. R. Hoelzel, and S. R. Choudhury. 
 
+<iframe src="./PosterPresentation_SF.pdf" width="100% height=100%">
+</iframe>
+
 Durham Anthropology Journal 2005:13(1)
 
 *Abstract*
