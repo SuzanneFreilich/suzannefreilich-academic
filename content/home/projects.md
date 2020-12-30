@@ -17,11 +17,4 @@ subtitle:
 date_format: Jan 2006
 
 ---
-
-**Croatia** 
-
-**South Asia**  
-
-**Anatolia**
-
-**Central Europe** 
+Current and prospective projects include reconstructing population histories from the Neolithic to the present-day in different regions of the world including **Croatia**, **Central Europe**, **Anatolia** and **South Asia**. 
