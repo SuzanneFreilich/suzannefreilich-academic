@@ -17,4 +17,5 @@ subtitle:
 date_format: Jan 2006
 
 ---
-Current and prospective projects include reconstructing population histories from the Neolithic to the present-day in different regions of the world including **Croatia**, **Central Europe**, **Anatolia** and **South Asia**. 
+Current and prospective projects include reconstructing population histories from the Neolithic to the present-day in different regions of the world including 
+**Croatia**     **Central Europe**     **Anatolia**     **South Asia**
