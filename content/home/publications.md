@@ -48,6 +48,8 @@ Submitted
 Human migrations from the Neolithic to the Bronze Age transformed the social and genetic structure of societies, with ancient DNA studies confirming varying proportions of distinct genetic ancestries among most Europeans. In Late Neolithic southeast Europe, cultural changes also saw the practice of intramural burials replaced with cemeteries, accompanied by increasing displays of social differentiation. Here, we report new whole-genome data for 28 ancient individuals from present-day eastern Croatia. We find sporadic but striking close parental relatedness among a largely outbred and homogeneous Middle Neolithic community, while socially stratified burials at a Middle Bronze Age community reveal patrilocal residency patterns and a genetic profile distinguished by high hunter-gatherer-related ancestry. The co-existence of ancestrally diverse communities in Croatia’s different ecoregions is no longer evident in Roman times, by when a broadly present-day genetic profile has formed. These insights provide a nuanced understanding of population dynamics in this region of southeast Europe.  
 
 
+
+
 **A genetic history of the pre-contact Caribbean**
 
 Fernandes, D.M., ..., Freilich, S., ..., Reich, D. 
@@ -57,6 +59,8 @@ Nature    23 Dec 2020: [https://doi.org/10.1038/s41586-020-03053-2 ](https://www
 *Abstract*
 
 Humans settled the Caribbean about 6,000 years ago, and ceramic use and intensified agriculture mark a shift from the Archaic to the Ceramic Age at around 2,500 years ago. Here we report genome-wide data from 174 ancient individuals from The Bahamas, Haiti and the Dominican Republic (collectively, Hispaniola), Puerto Rico, Curaçao and Venezuela, which we co-analysed with 89 previously published ancient individuals. Stone-tool-using Caribbean people, who first entered the Caribbean during the Archaic Age, derive from a deeply divergent population that is closest to Central and northern South American individuals; contrary to previous work4, we find no support for ancestry contributed by a population related to North American individuals. Archaic-related lineages were >98% replaced by a genetically homogeneous ceramic-using population related to speakers of languages in the Arawak family from northeast South America; these people moved through the Lesser Antilles and into the Greater Antilles at least 1,700 years ago, introducing ancestry that is still present. Ancient Caribbean people avoided close kin unions despite limited mate pools that reflect small effective population sizes, which we estimate to be a minimum of 500–1,500 and a maximum of 1,530–8,150 individuals on the combined islands of Puerto Rico and Hispaniola in the dozens of generations before the individuals who we analysed lived. Census sizes are unlikely to be more than tenfold larger than effective population sizes, so previous pan-Caribbean estimates of hundreds of thousands of people are too large5,6. Confirming a small and interconnected Ceramic Age population7, we detect 19 pairs of cross-island cousins, close relatives buried around 75 km apart in Hispaniola and low genetic differentiation across islands. Genetic continuity across transitions in pottery styles reveals that cultural changes during the Ceramic Age were not driven by migration of genetically differentiated groups from the mainland, but instead reflected interactions within an interconnected Caribbean world.
+
+
 
 **The formation of human populations in South and Central Asia**
 
