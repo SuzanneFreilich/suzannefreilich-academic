@@ -34,9 +34,9 @@ Austrian Marshall Plan Foundation Fellowship, {{% staticref "https://www.genscap
 
 Popgen Summer course in analyses of genotyping and NGS data in medical and population genetics. University of Copenhagen, Denmark  
 
-Erasmus+ Traineeship, Department of Archaeogenetics, Max Planck Institute for the Science of Human History, Jena, Germany. 
+Erasmus+ Traineeship, {{% staticref "https://www.shh.mpg.de/Department-of-Archaeogenetics" "newtab" %}}Department of Archaeogenetics{{% /staticref %}}, Max Planck Institute for the Science of Human History, Jena, Germany. 
 
-Lab training in carbon, nitrogen and strontium stable isotope analysis, Department of Human Evolution, Max Planck Institute for Evolutionary Anthropology, Leipzig, Germany.  
+Lab training in carbon, nitrogen and strontium stable isotope analysis, {{% staticref "https://www.eva.mpg.de/evolution/index.html" "newtab" %}}Department of Human Evolution{{% /staticref %}}, Max Planck Institute for Evolutionary Anthropology, Leipzig, Germany.  
 
 
 *2018*  
