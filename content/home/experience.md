@@ -28,7 +28,7 @@ Dissertation: Genetic diversity and population genetic structure in the South Am
 
 *2020*
 
-Austrian Marshall Plan Foundation Fellowship, Genscape Lab, Department of Human Genetics, University of Chicago, U.S.A.
+Austrian Marshall Plan Foundation Fellowship, Genscape Lab, Department of Human Genetics, University of Chicago, U.S.A. https://www.genscape-lab.com/
 
 *2019* 
 
