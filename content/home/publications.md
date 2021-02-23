@@ -37,7 +37,7 @@ design:
   view: 4
 ---
 
-**Genomic insights into the population into the formation of human populations in East Asia**
+**Genomic insights into the formation of human populations in East Asia**
 
 Wang, C.C., ..., Freilich, S., ..., Reich, D.
 
