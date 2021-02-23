@@ -37,6 +37,17 @@ design:
   view: 4
 ---
 
+**Genomic insights into the population into the formation of human populations in East Asia**
+
+Wang, C.C., ..., Freilich, S., ..., Reich, D.
+
+Nature  22 Feb 2021: [https://doi.org/10.1038/s41586-021-03336-2 ](https://www.nature.com/articles/s41586-021-03336-2/ "Nature")
+
+*Abstract*
+
+The deep population history of East Asia remains poorly understood due to a lack of ancient DNA data and sparse sampling of present-day people. We report genome-wide data from 166 East Asians dating to 6000 BCE – 1000 CE and 46 present-day groups. Hunter-gatherers from Japan, the Amur River Basin, and people of Neolithic and Iron Age Taiwan and the Tibetan plateau are linked by a deeply-splitting lineage likely reflecting a Late Pleistocene coastal migration. We follow Holocene expansions from four regions. First, hunter-gatherers of Mongolia and the Amur River Basin have ancestry shared by Mongolic and Tungusic language speakers but do not carry West Liao River farmer ancestry contradicting theories that their expansion spread these proto-languages. Second, Yellow River Basin farmers at ~3000 BCE likely spread Sino-Tibetan languages as their ancestry dispersed both to Tibet where it forms up ~84% to some groups and to the Central Plain where it contributed ~59-84% to Han Chinese. Third, people from Taiwan ~1300 BCE to 800 CE derived ~75% ancestry from a lineage also common in modern Austronesian, Tai-Kadai and Austroasiatic speakers likely deriving from Yangtze River Valley farmers; ancient Taiwan people also derived ~25% ancestry from a northern lineage related to but different from Yellow River farmers implying an additional north-to-south expansion. Fourth, Yamnaya Steppe pastoralist ancestry arrived in western Mongolia after ~3000 BCE but was displaced by previously established lineages even while it persisted in western China as expected if it spread the ancestor of Tocharian Indo-European languages. Two later gene flows affected western Mongolia: after ~2000 BCE migrants with Yamnaya and European farmer ancestry, and episodic impacts of later groups with ancestry from Turan.
+
+
 **A genetic history of the pre-contact Caribbean**
 
 Fernandes, D.M., ..., Freilich, S., ..., Reich, D. 
