@@ -37,6 +37,18 @@ design:
   view: 4
 ---
 
+
+**Reconstructing genetic histories and social organisation in Neolithic and Bronze Age Croatia**
+
+Freilich, S., Ringbauer, H., Los, D. et al. 
+
+Scientific Reports 11, 16729,  18 Aug 2021: [https://doi.org/10.1038/s41598-021-94932-9 ](https://www.nature.com/articles/s41598-021-94932-9/ "Scientific Reports")
+
+*Abstract*
+
+Ancient DNA studies have revealed how human migrations from the Neolithic to the Bronze Age transformed the social and genetic structure of European societies. Present-day Croatia lies at the heart of ancient migration routes through Europe, yet our knowledge about social and genetic processes here remains sparse. To shed light on these questions, we report new whole-genome data for 28 individuals dated to between ~ 4700 BCE–400 CE from two sites in present-day eastern Croatia. In the Middle Neolithic we evidence first cousin mating practices and strong genetic continuity from the Early Neolithic. In the Middle Bronze Age community that we studied, we find multiple closely related males suggesting a patrilocal social organisation. We also find in that community an unexpected genetic ancestry profile distinct from individuals found at contemporaneous sites in the region, due to the addition of hunter-gatherer-related ancestry. These findings support archaeological evidence for contacts with communities further north in the Carpathian Basin. Finally, an individual dated to Roman times exhibits an ancestry profile that is broadly present in the region today, adding an important data point to the substantial shift in ancestry that occurred in the region between the Bronze Age and today.
+
+ 
 **Genomic insights into the formation of human populations in East Asia**
 
 Wang, C.C., ..., Freilich, S., ..., Reich, D.
