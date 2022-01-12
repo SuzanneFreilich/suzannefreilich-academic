@@ -53,7 +53,7 @@ Ancient DNA studies have revealed how human migrations from the Neolithic to the
 
 Patterson, N., …., Freilich, S., …, Reich, D.  
 
-Nature 22 Dec 2021 (Advanced Article Preview): [https://doi.org/10.1038/s41586-021-04287-4] (https://www.nature.com/articles/s41586-021-04287-4/ "Nature")
+Nature 22 Dec 2021 (Advanced Article Preview): [https://doi.org/10.1038/s41586-021-04287-4 ](https://www.nature.com/articles/s41586-021-04287-4/ "Nature")
 
 *Abstract*
 
