@@ -11,7 +11,7 @@ role: PhD researcher, archaeogenetics and stable isotopes
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: University of Vienna
-- name: Max Planck Institute for the Science of Human History
+- name: Max Planck Institute for Evolutionary Anthropology
 
 # Short bio (displayed in user profile at end of posts)
 
@@ -29,6 +29,9 @@ social:
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.com/citations?user=FSeBm0AAAAAJ&hl=en
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0003-0472-6311
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen
