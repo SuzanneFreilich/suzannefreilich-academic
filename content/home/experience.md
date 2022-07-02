@@ -22,7 +22,7 @@ date_format: Jan 2006
 2022 Ph.D. University of Vienna, Austria
 
 2004 M.Sc. with distinction in Evolutionary Anthropology, Durham University, U.K.  
-Dissertation: Genetic diversity and population genetic structure in the South American sea lion (Otaria flavescens).
+Dissertation: Genetic diversity and population genetic structure in the South American sea lion (*Otaria flavescens*).
 
 2002 B.A. Cum Laude in Sociology & Anthropology and Evolutionary Biology, University of Haifa, Israel.
 
