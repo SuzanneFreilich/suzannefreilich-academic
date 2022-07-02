@@ -1,16 +1,15 @@
 ---
 # Display name
-title: Suzanne Freilich
+title: Dr. Suzanne Freilich
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: PhD researcher, archaeogenetics and stable isotopes
+role: Postdoctoral researcher in archaeogenetics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of Vienna
 - name: Max Planck Institute for Evolutionary Anthropology
 
 # Short bio (displayed in user profile at end of posts)
