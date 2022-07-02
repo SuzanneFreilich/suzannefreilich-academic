@@ -19,7 +19,7 @@ date_format: Jan 2006
 ---
 
 **Education**  
-2022 Ph.D. University of Vienna, Austria
+2022 Ph.D. with distinction, Department of Evolutionary Anthropology, University of Vienna, Austria
 
 2004 M.Sc. with distinction in Evolutionary Anthropology, Durham University, U.K.  
 Dissertation: Genetic diversity and population genetic structure in the South American sea lion (*Otaria flavescens*).
