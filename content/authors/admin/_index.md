@@ -10,7 +10,7 @@ role: Postdoctoral researcher in archaeogenetics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Max Planck Institute for Evolutionary Anthropology
+- name: Max Planck Institute for Evolutionary Anthropology, Leipzig, Germany
 
 # Short bio (displayed in user profile at end of posts)
 
